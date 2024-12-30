@@ -1,0 +1,14 @@
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_3\Switch-Case\Switch-Case\bin\Debug\net8.0\Switch-Case.exe
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_3\Switch-Case\Switch-Case\bin\Debug\net8.0\Switch-Case.deps.json
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_3\Switch-Case\Switch-Case\bin\Debug\net8.0\Switch-Case.runtimeconfig.json
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_3\Switch-Case\Switch-Case\bin\Debug\net8.0\Switch-Case.dll
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_3\Switch-Case\Switch-Case\bin\Debug\net8.0\Switch-Case.pdb
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_3\Switch-Case\Switch-Case\obj\Debug\net8.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_3\Switch-Case\Switch-Case\obj\Debug\net8.0\Switch-Case.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_3\Switch-Case\Switch-Case\obj\Debug\net8.0\Switch-Case.AssemblyInfo.cs
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_3\Switch-Case\Switch-Case\obj\Debug\net8.0\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_3\Switch-Case\Switch-Case\obj\Debug\net8.0\Switch-Case.dll
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_3\Switch-Case\Switch-Case\obj\Debug\net8.0\refint\Switch-Case.dll
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_3\Switch-Case\Switch-Case\obj\Debug\net8.0\Switch-Case.pdb
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_3\Switch-Case\Switch-Case\obj\Debug\net8.0\Switch-Case.genruntimeconfig.cache
+C:\Users\Monster\Desktop\C#\ÖDEV TESLİMİ_3\Switch-Case\Switch-Case\obj\Debug\net8.0\ref\Switch-Case.dll
